@@ -2,6 +2,10 @@
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
+## Demo
+
+https://ebook-website-fgu3hovgv-mostafabder2-gmailcom.vercel.app/
+
 <img src="./images/screen.png"  />
 
 ## Features
@@ -13,6 +17,7 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 - Form & input styles
 - Testimonials
 - Contact page with Google Map
+- Using formspree for submiting form
 
 ## Usage
 
@@ -35,6 +40,10 @@ To watch your Sass files for changes, run:
 ```bash
 npm run sass:watch
 ```
+
+## Feedback
+
+If you have any feedback, please reach out to me at mostafabder2@gamil.com
 
 You can add Bootstrap variables to the `bootstrap.scss` file. You can look at the file `node_modules/bootstrap/dist/scss/_variables.scss` for a list of all the variables. Do NOT edit the `variables.scss` file directly, as it will be overwritten when you update Bootstrap.
 
