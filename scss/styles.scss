@@ -24,11 +24,6 @@
   color: var(--bs-dark);
 }
 
-.navbar-collapse.show .navbar-nav {
-  align-items: center;
-  margin: 30px 0;
-  gap: 15px;
-}
 .navbar {
   transition: all 0.4s ease-in-out;
   -webkit-transition: all 0.4s ease-in-out;
