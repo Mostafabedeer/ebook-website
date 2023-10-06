@@ -46,7 +46,13 @@ header {
   background: url(../images/header-background.jpg) center center no-repeat;
   background-size: cover;
 }
-
+.hero .img-container {
+  transform: translateX(-8px);
+  -webkit-transform: translateX(-8px);
+  -moz-transform: translateX(-8px);
+  -ms-transform: translateX(-8px);
+  -o-transform: translateX(-8px);
+}
 @media screen and (max-width: 1000px) {
   .hero .img-container {
     display: flex;
@@ -66,6 +72,13 @@ header {
 .download {
   background: url(../images/download-background.jpg) center center no-repeat;
   background-size: cover;
+}
+.download .image-container {
+  transform: translateX(-5px);
+  -webkit-transform: translateX(-5px);
+  -moz-transform: translateX(-5px);
+  -ms-transform: translateX(-5px);
+  -o-transform: translateX(-5px);
 }
 
 //map
